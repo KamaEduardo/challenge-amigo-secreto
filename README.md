@@ -42,7 +42,10 @@ Clique em Sortear amigo para selecionar aleatoriamente um participante.
 
 📸 Demonstração
 
-   assets/demo.gif
+   
+
+![Demonstração do Amigo Secreto](assets/demo.gif)
+
 
 📌 Observações
 
