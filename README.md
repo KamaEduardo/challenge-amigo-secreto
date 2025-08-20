@@ -23,7 +23,7 @@ CSS3
 JavaScript (ES6)
 
 📂 Estrutura do Projeto
-📦 amigo-secreto
+                                                                                       📦 amigo-secreto
  ┣ 📂 assets          # Imagens, ícones e gif
  ┣ 📜 index.html      # Página principal
  ┣ 📜 style.css       # Estilos do projeto
@@ -54,4 +54,5 @@ O projeto impede a adição de nomes duplicados.
 👤 Autor
 
 Desenvolvido por Kama João
+
 Formando na Oracle Next Education
